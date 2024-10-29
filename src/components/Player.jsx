@@ -1,4 +1,5 @@
 import { useState, useRef } from "react";
+import TimerChallenge from "./TimerChallenge";
 
 export default function Player() {
   const playerName = useRef();
